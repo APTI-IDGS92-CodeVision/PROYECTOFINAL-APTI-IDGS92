@@ -2,7 +2,7 @@
 
 Bolsa de Trabajo
 
-Victor Ariel Soto Rodriguez - PM
+PM - Victor Ariel Soto Rodriguez 
 Omar Alejandro Lopwz Camacho - Consultor 1
 Kevin Santiago Quintero Arreola - Consultor 2
 Cesar Vicente Garcia Gonzales - Consultor 3
