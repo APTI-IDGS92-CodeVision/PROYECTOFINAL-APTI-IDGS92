@@ -8,6 +8,6 @@ Kevin Santiago Quintero Arreola - Consultor 2
 Cesar Vicente Garcia Gonzales - Consultor 3
 Salvador Antonio Gonzales Aguirre
 
-Administración de Proyectos de TI - IDGS92
+Administración de Proyectos de TI - IDGS 92
 
-Proyecto de bolsa trabajo donde los egresados de la universidad tecnologica de la costa podran buscar empleo de sus carreras
+Proyecto de bolsa trabajo donde los egresados de la universidad tecnologica de la costa podran buscar empleo relacionado a sus carreras.
