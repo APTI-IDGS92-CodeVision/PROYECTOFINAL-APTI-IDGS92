@@ -3,7 +3,7 @@
 Bolsa de Trabajo
 
 PM - Victor Ariel Soto Rodriguez 
-Omar Alejandro LopEz Camacho - Consultor 1
+Omar Alejandro Lopez Camacho - Consultor 1
 Kevin Santiago Quintero Arreola - Consultor 2
 Cesar Vicente Garcia Gonzales - Consultor 3
 Salvador Antonio Gonzales Aguirre
