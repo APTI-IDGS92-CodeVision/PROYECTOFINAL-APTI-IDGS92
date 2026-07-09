@@ -1,11 +1,11 @@
 # PROYECTOFINAL-APTI-IDGS92
 
-Bolsa de Trabajo
+Bolsa de Trabajo.
 
 PM - Victor Ariel Soto Rodriguez 
 Omar Alejandro Lopez Camacho - Consultor 1
 Kevin Santiago Quintero Arreola - Consultor 2
-Cesar Vicente Garcia Gonzales - Consultor 3
+Cesar Vicente Garcia Gonzalez - Consultor 3
 Salvador Antonio Gonzales Aguirre
 
 Administración de Proyectos de TI - IDGS 92
